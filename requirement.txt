@@ -1,0 +1,6 @@
+fastapi
+strands
+boto3
+awscli
+pandas
+langchain
